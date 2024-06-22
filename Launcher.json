@@ -1,0 +1,10 @@
+{   
+	"Version": "1.05",
+	"FileList":"http://crono007-homelab.duckdns.org:30210/filelist.json",
+	"DownloadUpdate": "http://crono007-homelab.duckdns.org:30210/cliente/",		
+	"News": [
+		"https://ryanv28.github.io/Ryanv28/News/0.png",
+		"https://ryanv28.github.io/Ryanv28/News/1.png",
+		"https://ryanv28.github.io/Ryanv28/News/2.png"
+	]			
+}
